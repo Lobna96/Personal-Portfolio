@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+}
+.clear-fix {
+    clear: both;
+}
+.color-h2 {
+    color: rgb(14, 14, 136);
+}
+.border-bottom {
+    border-bottom: 1px rgb(226, 223, 223) solid;
+}
+button {
+    border: 2px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: aliceblue;
+    background: rgb(39, 9, 121);
+}
+.pm {
+    padding-bottom: 10px;
+    margin: 0%;
+}
+.basics {
+    width: 50%;
+    margin: auto;
+    border-radius: 20px;
+    border: black 2px solid;
+    padding: 40px;
+    background-color: aliceblue;
+}
+.for-img {
+    width: 100px;
+    float: left;
+    border-radius: 100%;
+    border: rgb(145, 145, 196) 1px solid;
+    margin-top: 5px;
+    margin-right: 20px;
+}
+.cont {
+    text-align: center;
+    background: rgb(14, 2, 46);
+    color: aliceblue;
+}
+body {
+    background: #5c61a7;
+}
+.header {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding-block: 20px;
+    background: rgb(14, 2, 46);
+    border-radius: 20px;
+    border: black 2px solid;
+    color: aliceblue;
+}
+.aboutme span {
+    text-decoration: solid;
+    color: rgb(45, 10, 92);
+    font-weight: bold;
+}
+.aboutme p {
+    font-size: 20px;
+}
+.child {
+    margin: auto;
+}
+.x {
+    width: 25%;
+    float: left;
+    padding: 20px;
+    border-radius: 10%;
+    border: 10px solid aliceblue;
+    background-color: #ffffff;
+}
+.x h3 {
+    color: #272d81;
+}
+.ch2 {
+    width: 100%;
+    padding: 20px;
+    border-radius: 10%;
+    border: 10px solid aliceblue;
+    background-color: #ffffff;
+    border-left: 5px #272d81 solid;
+}
+.ch2 h3 {
+    color: #272d81;
+}
+.ch2 h4 {
+    color: #5c61a7;
+}
